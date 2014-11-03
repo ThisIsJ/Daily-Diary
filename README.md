@@ -50,7 +50,9 @@ Daily-Diary
   * Ability to draw attention to specific sections of interest within entries
   * Inline annotations
   * Allow citations in the diary entries, and we display them as clickable links allowing easy navigation within a diary.
-
+* Example of GitHub “finished” website and developer site:
+ * http://www.consumerfinance.gov/eregulations/
+ * https://cfpb.github.io/eRegulations/
 
 ## Existing Digitized Diaries
 * **Franklin D. Roosevelt**<br />
