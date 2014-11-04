@@ -6,11 +6,13 @@ Daily-Diary
 
 
 ## Next Steps
-* Create GitHub account
-* Add more material to this page
 * Review [these microsites](http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/) to consider their themes
 * Review [these tools](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github/) to consider the possibilities
-
+* Get feedback from 18F
+* Reach out to the developer community
+* Select sites created with github for potential cloning or repurposing 
+* Create Wireframe
+* Begin coding web site
 
 ## Program Deliverables
 * [A website](https://github.com/gbinal/PL-2/blob/master/website.md)
@@ -21,16 +23,16 @@ Daily-Diary
 * A calendar that features a curated daily diary entry
 * Searchable catalog of WH diaries
 * Responsive Web Design
-* Means of Crowdsourced Transcription
-* Transcriptions for diary entries
+* Means of Crowdsourced Transcription for diary entries - Inspired by the [Citizen Archivist Dashboard] (http://www.archives.gov/citizen-archivist/) 
+
 
 ## Features
 ### API Features
 * API of the Daily Diaries with administration, date, year, and link to where it is available, image of entry if available.
 * API to include complete information about the Entry (who, titles, what, where, significance, etc.)
 * Layer for table of contents -- a listing of headers
-* Layer for terms -- defined terms, including their scope
-* 
+* Layer for terms -- defined terms, including their scope (links to NARA's Authority List)
+
 
 ### Site Features
 * Features a curated "on this day" rotating image/entry - 
